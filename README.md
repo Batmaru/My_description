@@ -1,4 +1,4 @@
-👋 Hi, I'm Marwan Rafik, a young 19-year-old enthusiast. Fresh out of high school, where I refined my skills in Applied Sciences, 
+👋 Hi, I'm Marwan Rafik, a young 20-year-old enthusiast. Fresh out of high school, where I refined my skills in Applied Sciences, 
 I'm diving headfirst into the world of computer programming. Currently enrolled in an intensive training program, I'm specializing 
 as a Cloud Developer, driven by my passion for leveraging technology to create innovative solutions.
 
